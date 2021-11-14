@@ -24,7 +24,7 @@
     * `reminder;`
       * If there is an error in the bot, you can get support by contacting `Laving Salvatore.#0001`.
       * The bot belongs to me 100% and in case of stealing, copyrights will be applied directly.
-      * If 25 Stars come, it will be much more developed and beautiful.
+      * If 40 Stars come, it will be much more developed and beautiful.
       * You can support by throwing Star and Fork.
 
 
@@ -61,7 +61,7 @@
     * `Hatırlatma;`
       * Eğer botta hata çıkarsa `Laving Salvatore.#0001` adresinden ulaşarak destek alabilirsiniz.
       * Bot %100 şahsıma aittir ve çalma durumunda direk telif haklarına başvurulucaktır.
-      * 25 Star gelirse çok daha gelişmiş ve güzel hali gelicektir.
+      * 40 Star gelirse çok daha gelişmiş ve güzel hali gelicektir.
       * Star ve Fork atarak destek olabilirsiniz.
 
 
