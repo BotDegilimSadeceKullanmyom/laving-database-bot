@@ -64,6 +64,11 @@
       * 40 Star gelirse çok daha gelişmiş ve güzel hali gelicektir.
       * Star ve Fork atarak destek olabilirsiniz.
 
+- [X] **Proje Sahibi;** 
+    * `Null;`
+      * Projenin orjinal linki: https://github.com/This-null/discord-null-database-bot
+      * Null Github: https://github.com/This-null
+      * Null Discord: null Salvatore#1002
 
 - [X] **GELİYOR..**
   - Arkadaşlar alttaki projeye 30 star gelirse çok güzel bir moderation bot gelicek repoya star ve fork atmayı unutmayın iyi kodlamalar.
