@@ -15,7 +15,7 @@
      * `Module Loading`
        * First of all, we load our modules as `npm i {module}`.
      * `Bot settings`
-       * Then we enter the `settings.json` file and fill in the required fields.
+       * Then we enter the `ayarlar.json` file and fill in the required fields.
      * `Starting the Bot`
        * Finally, to run the bot, we enter our files and `shift` + `right-click' and run the command prompt. Then we can run our bot as `node laving.js` or `node .`.
 
