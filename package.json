@@ -2,7 +2,7 @@
   "name": "database",
   "version": "0.0.1",
   "description": "laving-database",
-  "main": "null.js",
+  "main": "laving.js",
   "scripts": {
     "test": "node ."
   },
