@@ -1,4 +1,6 @@
-# **ENGLİSH SECTION**
+#15 STARA PAYLAŞIYORUM
+
+## **ENGLİSH SECTION**
 
 ### Contents
  Here you can see all the features of the bot. In addition to the features here, the ones that are ticked are those that can be used, and those that are not are those that will come in the near future.
