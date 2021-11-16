@@ -61,7 +61,7 @@
 
 - [X] **Önemli Bilgiler;** 
     * `Hatırlatma;`
-      * Eğer botta hata çıkarsa `Laving Salvatore.#0001` adresinden ulaşarak destek alabilirsiniz.
+      * Eğer botta hata çıkarsa `Laving#0001` adresinden ulaşarak destek alabilirsiniz.
       * Bot %100 şahsıma aittir ve çalma durumunda direk telif haklarına başvurulucaktır.
       * 40 Star gelirse çok daha gelişmiş ve güzel hali gelicektir.
       * Star ve Fork atarak destek olabilirsiniz.
@@ -70,7 +70,7 @@
     * `Null;`
       * Projenin orjinal linki: https://github.com/This-null/discord-null-database-bot
       * Null Github: https://github.com/This-null
-      * Null Discord: null Salvatore#1002
+      * Null Discord: null#1002
 
 - [X] **GELİYOR..**
   - Arkadaşlar alttaki projeye 30 star gelirse çok güzel bir moderation bot gelicek repoya star ve fork atmayı unutmayın iyi kodlamalar.
