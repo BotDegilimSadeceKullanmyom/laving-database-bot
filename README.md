@@ -1,5 +1,3 @@
-# 15 **STARDA SİZLERLE**
-
 ## **ENGLİSH SECTION**
 
 ### Contents
